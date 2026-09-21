@@ -94,9 +94,3 @@ statsmodels
 ## Limitations
 
 This is an exploratory trader-level analysis, not a causal study or a trading strategy backtest. The dataset does not contain complete transaction histories, market-resolution outcomes, or a documented definition of the supplied labels. The results identify associations in this sample and should not be interpreted as evidence that copying a playbook will cause profitability.
-
-## References
-
-1. Diquigiovanni, J., & Scarpa, B. (2018). *Analysis of Association Football Playing Styles: An Innovative Method to Cluster Networks.* arXiv. https://arxiv.org/abs/1805.10933
-2. Wolfers, J., & Zitzewitz, E. (2004). *Prediction Markets.* Journal of Economic Perspectives, 18(2), 107-126. https://www.aeaweb.org/articles?id=10.1257/0895330041371321
-
